@@ -1,0 +1,947 @@
+body.ant-btn-primary {
+    text-transform: lowercase;
+    font-variant: small-caps;
+    line-height: 1em;
+}
+#baseMarketFee {
+    border-color: #5500cc;
+    border-right-width: 0;
+    border-style: solid;
+    border-width: 2px;
+}
+#crex {
+    font-family: Play;
+}
+#current-password {
+    background-color: #5500bb;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+#menu {
+    font-family: Play;
+}
+a span span {
+    font-family: Play;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+a.column-hide-xxs {
+    font-family: Play;
+    text-transform: uppercase;
+}
+a.logo {
+    background-color: #5500bb;
+    text-decoration: line-through;
+}
+a.logo.active {
+    background-color: #5500bb;
+    color: #5500bb;
+}
+/* cyrillic-ext */
+@font-face {
+    font-family: 'Play';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Play Bold'), local('Play-Bold'), url(https://fonts.gstatic.com/s/play/v9/6ae84K2oVqwItm4TCpAy2lvQNTI.woff2) format('woff2');
+    unicode-range: U +0000 -00FF U +0131 U +0152 -0153 U +02BB-02BC U +02C6 U +02DA U +02DC U +2000 -206F U +2074 U +20AC U +2122 U +2191 U +2193 U +2212 U +2215 U + FEFF U + FFFD;
+}
+/* cyrillic */
+/* greek */
+/* vietnamese */
+/* latin-ext */
+/* latin */
+/* cyrillic-ext */
+/* cyrillic */
+/* greek */
+/* vietnamese */
+/* latin-ext */
+/* latin */
+b.value {
+    font-family: Play;
+}
+button.button {
+    background-color: #5500bb;
+    border-color: #00aaff;
+    border-style: solid;
+    color: #ffffff;
+    margin-left: 5px;
+}
+button.button span {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+button.button.outline {
+    margin-top: 2 px;
+}
+div div a {
+    font-family: Play;
+}
+div div p {
+    font-family: Play;
+}
+div div span {
+    font-family: Play;
+}
+div p span {
+    font-family: Play;
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: lowercase;
+}
+div.block-content-header span {
+    font-variant: small-caps;
+    font-weight: bold;
+    text-transform: lowercase;
+}
+div.button {
+    border-width: 1px;
+}
+div.button.small {
+    background-color: #5500bb;
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 5px;
+}
+div.card {
+    background-color: #5500bb;
+    color: #ffffff;
+    font-weight: bold;
+}
+div.card-divider {
+    background-color: #5500bb;
+    border-color: #5500bb;
+    border-style: solid;
+    border-width: 1px;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+div.cell {
+    background-color: #140038;
+    font-size: 75%;
+}
+div.cell.header-cell {
+    background-color: #5500bb;
+    color: #ffffff;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+div.clickable {
+    color: #ffffff;
+}
+div.content-block div span {
+    font-family: Play;
+}
+div.content-block.transfer-input textarea {
+    background-color: #5500bb;
+    border-color: #00a2ff;
+    border-style: solid;
+    border-width: 1px;
+    color: #ffffff;
+}
+div.content-box a span {
+    text-transform: none;
+}
+div.exchange-bordered {
+    margin: 0;
+}
+div.exchange-content-header.ask {
+    background-color: #5c0000;
+    color: #ffffff;
+    letter-spacing: 1px;
+    line-height: 1px;
+}
+div.exchange-content-header.ask span {
+    font-variant: small-caps;
+    font-weight: bold;
+    text-transform: lowercase;
+}
+div.exchange-content-header.bid {
+    background-color: #007d19;
+    color: #ffffff;
+}
+div.exchange-content-header.bid span {
+    font-variant: small-caps;
+    font-weight: bold;
+    text-transform: lowercase;
+}
+div.exchange-content-header.clickable {
+    background-color: #5500bb;
+    color: #ffffff;
+}
+div.filter.inline-block input {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Play;
+}
+div.float-right.header-sub-title {
+    color: #ffffff;
+    font-weight: bold;
+    letter-spacing: 0;
+    margin-top: 2px;
+}
+div.float-right.header-sub-title span {
+    font-weight: bold;
+}
+div.float-right.header-sub-title.grouped_order select {
+    color: #ffffff;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-transform: lowercase;
+}
+div.grid-block.main-content.wrap.regular-padding {
+    font-family: Play;
+}
+div.grid-block.no-overflow.wrap.shrink {
+    font-family: Play;
+    margin: 0;
+}
+div.grid-block.shrink div {
+    font-family: Play;
+}
+div.grid-block.small-12.no-margin.vertical h3 {
+    font-family: Play;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+div.grid-block.small-3.no-margin.no-overflow.buy-sell-label span {
+    font-variant: small-caps;
+    font-weight: bold;
+    text-transform: lowercase;
+}
+div.grid-block.small-4.no-margin.no-overflow.buy-sell-box {
+    background-color: #5500bb;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+div.grid-block.small-4.no-margin.no-overflow.buy-sell-box span span {
+    font-variant: small-caps;
+    text-transform: uppercase;
+}
+div.grid-block.small-4.no-margin.no-overflow.buy-sell-label span {
+    font-variant: small-caps;
+    font-weight: bold;
+    text-transform: lowercase;
+}
+div.grid-block.vertical.shrink h3 {
+    font-family: Play;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-transform: lowercase;
+}
+div.grid-block.wrap.market-stats-container {
+    font-family: Play;
+    height: 50px;
+}
+div.grid-content h2 {
+    font-family: Play;
+}
+div.grid-content h5 {
+    font-family: Play;
+}
+div.grid-content.app-tables.no-padding {
+    font-family: Play;
+}
+div.grid-content.shrink.settings-menu {
+    font-family: Play;
+}
+div.has-error {
+    font-variant: small-caps;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+div.header-area label {
+    font-family: Play;
+}
+div.header-selector input {
+    background-color: #000000;
+    color: #ffffff;
+}
+div.inline-block.tooltip span {
+    letter-spacing: 1px;
+}
+div.inline-label.input-wrapper input {
+    background-color: #5500bb;
+    border-color: #00a2ff;
+    border-style: solid;
+    color: #ffffff;
+    border-top-width: 1pxpx;
+    border-bottom-width: 1pxpx;
+    font-family: Play;
+}
+div.introjs-launcher {
+    background-color: #5500bb;
+    color: #ffffff;
+    font-weight: bold;
+}
+div.loading-overlay {
+    font-family: Play;
+    font-weight: bold;
+}
+div.loading-panel {
+    border-style: none;
+}
+div.modal-content {
+    font-family: Play;
+}
+div.modal.fadeIn.ng-enter.is-active.ng-enter-active {
+    border-color: #0cf;
+    border-style: solid;
+    border-width: 1px;
+}
+div.modal.is-active {
+    border-width: 2px;
+}
+div.modal__header p {
+    font-family: Play;
+}
+div.modal__title h4 {
+    font-family: Play;
+}
+div.mymarkets-header.clickable {
+    background-color: #5500bb;
+    border-bottom-width: 1px;
+    border-color: #ffffff;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-style: none;
+    border-top-width: 0;
+    border-width: 1px;
+    color: #ffffff;
+}
+div.mymarkets-header.clickable span {
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: lowercase;
+}
+div.mymarkets-header.clickable.inactive {
+    background-color: #383838;
+    border-style: none;
+    color: #ffffff;
+}
+div.mymarkets-header.clickable.inactive span {
+    font-variant: small-caps;
+    font-weight: bold;
+    text-transform: lowercase;
+}
+div.settings--notifications--no-browser-support {
+    font-variant: small-caps;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+div.settings-input {
+    background-color: #5500bb;
+    color: #ffffff;
+}
+div.small-12.medium-5 h4 {
+    font-family: Play;
+}
+div.small-12.medium-7 h4 {
+    font-family: Play;
+}
+div.stat-text {
+    font-variant: small-caps;
+    font-weight: bold;
+    text-transform: lowercase;
+}
+div.stat-text span {
+    color: #f07d18;
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: lowercase;
+}
+div.tab-content.tab-content.padding {
+    font-family: Play;
+}
+div.text-center {
+    font-family: Play;
+    text-transform: lowercase;
+    font-variant: small-caps;
+}
+div.text-center.spread {
+    background-color: #6a00a8;
+    color: #ffffff;
+    font-variant: small-caps;
+    letter-spacing: 0px;
+    margin: 0;
+    padding: 3px;
+    font-weight: bold;
+    text-transform: lowercase;
+}
+div.text.account-name {
+    font-family: Play;
+    padding: 3px;
+    font-weight: bold;
+}
+div.total-value {
+    font-family: Play;
+    font-weight: bold;
+}
+div.typeahead__input {
+    background-color: #5500bb;
+    border-color: #00a2ff;
+    border-style: solid;
+    border-width: 1px;
+    color: #ffffff;
+}
+div.v-align.grid-block.align-center.grouped_order select {
+    background-color: #5500cc;
+    color: #ffffff;
+    font-variant: small-caps;
+    text-transform: uppercase;
+}
+div.v-align.no-padding.align-center.grid-block.footer.shrink.bottom-header {
+    background-color: #5500CC;
+    color: #ffffff;
+}
+form label span {
+    font-family: Play;
+}
+form.order-form {
+    letter-spacing: 1px;
+}
+h3.panel-bg-color {
+    font-family: Play;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-transform: lowercase;
+}
+h4.text-center {
+    background-color: #00a2ff;
+    color: #000000;
+    font-family: Play;
+}
+input.button.buySellButton.ask {
+    font-weight: bold;
+}
+input.button.buySellButton.bid {
+    font-weight: bold;
+}
+input.no-margin.market-filter-input {
+    background-color: #000000;
+    color: #ffffff;
+    margin-top: 5px;
+}
+input.settings-input {
+    background-color: #5500bb;
+    color: #ffffff;
+    font-family: Play;
+    border-style: solid;
+    border-color: #00ccff;
+    border-width: 1px;
+    border-bottom-width: 1px;
+}
+label span span {
+    letter-spacing: 1px;
+}
+label.left-label {
+    font-weight: 700;
+    padding: 5px 0 5px 5px;
+}
+label.left-label.login-label span {
+    font-variant: small-caps;
+    text-transform: uppercase;
+}
+label.right-label span span {
+    background-color: #5500bb;
+    color: #ffffff;
+}
+li.ant-pagination-total-text {
+    font-family: Play;
+    text-transform: uppercase;
+}
+li.mymarkets-tab {
+    background-color: #5500bb;
+    border-color: #00ccff;
+    border-style: solid;
+    border-width: 1px;
+    color: #ffffff;
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 1px;
+    line-height: 8px;
+    margin: 1px;
+    margin-left: 4px;
+    padding-bottom: 6px;
+    text-transform: lowercase;
+}
+section.block-list header span {
+    font-family: Play;
+}
+section.block-list.no-border-bottom header span {
+    font-family: Play;
+    font-weight: bold;
+}
+select.bts-select {
+    background-color: #5500bb;
+    color: #ffffff;
+    font-family: Play;
+}
+select.form-control.buysell-select {
+    background-color: #5500bb;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+select.login-select {
+    background-color: #5500bb;
+    color: #ffffff;
+}
+select.settings-select {
+    background-color: #5500bb;
+    color: #ffffff;
+    font-family: Play;
+}
+span.asset-prefix-replaced {
+    color: #7bd500;
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: lowercase;
+}
+span.button.outline span {
+    font-family: Play;
+    font-weight: bold;
+}
+span.column-hide-small {
+    font-family: Play;
+    letter-spacing: 1px;
+}
+span.flip-arrow {
+    color: #ffffff;
+    margin-left: 5px;
+}
+span.header-sub-title {
+    background-color: #5500BB;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+span.header-sub-title span span {
+    font-variant: small-caps;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+span.icon.question-circle svg path {
+    color: #ffffff;
+}
+span.label.cancel {
+    text-transform: uppercase;
+}
+span.label.info {
+    background-color: #5500bb;
+    border-color: #00a2ff;
+    border-style: solid;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+span.label.success {
+    text-transform: uppercase;
+}
+span.label.warning {
+    text-transform: uppercase;
+}
+span.panel-bg-color {
+    font-family: Play;
+    text-transform: uppercase;
+}
+span.price-decimal {
+    color: #949494;
+    font-weight: bold;
+}
+span.price-integer {
+    font-family: Play;
+}
+span.stat-text {
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: lowercase;
+}
+span.tab-title {
+    font-family: Play;
+    letter-spacing: 1px;
+}
+span.tooltip.inline-block.undefined span {
+    font-weight: bold;
+}
+span.txtlabel span {
+    font-family: Play;
+}
+span.underline span span {
+    font-family: Play;
+    font-variant: small-caps;
+    text-transform: uppercase;
+}
+tbody tr td {
+    border-style: none;
+    font-family: Play;
+}
+tbody.orderbook.clickable tr td {
+    font-size: 75%;
+}
+td span span {
+    font-family: Play;
+}
+td.cell.center-cell {
+    background-color: #5500bb;
+}
+td.clickable.my-account span {
+    font-variant: normal;
+}
+td.text-right {
+    letter-spacing: 1px;
+    border-style: dotted;
+    border-width: 1px;
+    border-color: #876fa1;
+    font-weight: normal;
+}
+td.tooltip {
+    color: #949494;
+    font-size: 70%;
+    font-weight: bold;
+}
+th.clickable.is-sortable {
+    letter-spacing: 1px;
+}
+thead tr th {
+    background-color: #5500bb;
+    color: #ffffff;
+    font-family: Play;
+    letter-spacing: 1px;
+    border-style: dotted;
+    border-color: #575757;
+    border-top-width: 1pxpx;
+    border-bottom-width: 0;
+    border-width: 1px;
+    line-height: 1px;
+}
+tr td h4 {
+    font-variant: normal;
+}
+tr td input {
+    border-width: 1px;
+}
+tr.clickable td {
+    text-transform: uppercase;
+    border-style: dotted;
+    border-color: #7a568f;
+    border-width: 1px;
+}
+ul a li {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+ul li span {
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: lowercase;
+}
+ul.mymarkets-tabs {
+    width: 385px;
+    padding-left: 10px;
+    margin: -10px;
+    padding-bottom: 12px;
+}
+li.mymarkets-tab.active {
+    color: #000;
+    background-color: #cc9f01;
+    border-style: solid;
+    border-top-width: 1px;
+    border-color: #5500bb;
+}
+td label span {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+tr.buy-sell-info td {
+    border-style: none;
+}
+td.column-hide-small {
+    font-family: Play;
+}
+div.settings--notifications--item label {
+    font-family: Play;
+}
+li.is-active a {
+    background-color: #5500bb;
+    color: #ffffff;
+}
+tr.top-header th {
+    line-height: 1px;
+    border-style: dotted;
+    border-right-width: 1px;
+    border-color: #000000;
+    border-bottom-width: 0;
+    border-top-width: 0;
+    border-left-width: 0;
+}
+span.symbol-text span span {
+    text-transform: uppercase;
+}
+div.exchange-content-header.ask div {
+    margin: 0;
+}
+#askAmount {
+    border-color: #5500bb;
+    border-style: solid;
+    border-width: 2px;
+}
+#askFee {
+    border-color: #5500bb;
+    border-style: solid;
+    border-width: 2px;
+}
+#askPrice {
+    border-color: #5500bb;
+    border-style: solid;
+    border-width: 2px;
+}
+#askTotal {
+    border-color: #5500bb;
+    border-style: solid;
+    border-width: 2px;
+}
+#bidAmount {
+    border-color: #5500bb;
+    border-style: solid;
+    border-width: 2px;
+}
+#bidFee {
+    border-color: #5500bb;
+    border-style: solid;
+    border-width: 2px;
+}
+#bidPrice {
+    border-color: #5500bb;
+    border-style: solid;
+    border-width: 2px;
+}
+#bidTotal {
+    border-color: #5500bb;
+    border-style: solid;
+    border-width: 2px;
+}
+div.asset-selector {
+    border-style: none;
+}
+div.left-order-book.no-padding.no-overflow div {
+    border-style: none;
+}
+div.selector.inline-block {
+    text-transform: lowercase;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+tr.buy-sell-info td span {
+    text-transform: lowercase;
+    font-variant: small-caps;
+}
+li.stressed-stat.input.clickable {
+    min-width: 100%;
+}
+.stats.stressed-stat {
+    font-size: 14px;
+}
+pane-legend-line.apply-overflow-tooltip main {
+    color: #5500bb;
+}
+.layout__area--top .header-chart-panel-sizer .header-chart-panel-content {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.inner-miy9NvGa- {
+    zoom: 60%;
+}
+span.currency.click-for-help span {
+    font-variant: small-caps;
+}
+#current-password,
+div label input {
+    border-color: #0cf;
+    border-style: solid;
+}
+#current-password,
+div.content-box {
+    background-color: #000;
+    color: #fff;
+    border-width: 1px;
+}
+div label input {
+    border-width: 1px;
+}
+div.amount-selector label {
+    font-family: Play;
+}
+div.button,
+div.content-box,
+div.grid-block.vertical.shrink input,
+div.grid-content textarea,
+div.inline-label input,
+div.modal.is-active,
+div.small-12.grid-content label textarea {
+    border-color: #0cf;
+    border-style: solid;
+}
+div.container-row.deposit-directly h6 {
+    font-family: Play;
+    font-weight: 700;
+}
+div.content-box {
+    padding-left: 10px;
+}
+div.grid-block.vertical.shrink input {
+    border-width: 1px;
+    margin-bottom: 15px;
+}
+div.grid-content textarea {
+    border-width: 1px;
+}
+div.grid-content.shrink h3 {
+    font-family: Play;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+div.inline-label input {
+    background-color: #50b;
+    border-width: 1px;
+}
+div.modal-header b span {
+    text-transform: uppercase;
+}
+div.small-12.grid-content h3 {
+    font-family: Play;
+    font-variant: small-caps;
+    font-weight: 700;
+    text-transform: lowercase;
+}
+div.small-12.grid-content label span {
+    font-weight: 700;
+}
+div.small-12.grid-content label textarea {
+    border-width: 1px;
+}
+div.switch label {
+    border-style: none;
+}
+input.no-margin.market-filter-input,
+select.login-select,
+select.settings-select {
+    border-color: #0cf;
+    border-style: solid;
+    border-width: 1px;
+}
+div.tabs-header h3 span {
+    font-variant: small-caps;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+h2.modal__highlight {
+    font-weight: 700;
+}
+div.loading-panel,
+tr td input {
+    border-color: #0cf;
+    border-style: solid;
+}
+input.ant-input {
+    border-style: none;
+    font-family: Play;
+    color: #ffffff;
+    background-color: #5500bb;
+}
+input.ant-input.ant-input-disabled {
+    font-family: Play;
+}
+button.ant-btn {
+    padding-top: 3px;
+    font-weight: bold;
+}
+div.ant-tabs-tab {
+    font-family: Play;
+    font-weight: bold;
+}
+div.grid-block.align-center {
+    font-family: Play;
+}
+div.grid-content.shrink.text-center.account-creation {
+    font-family: Play;
+}
+div.grid-content.shrink.text-center.account-creation div h4 {
+    font-family: Play;
+    font-weight: bold;
+}
+div p b {
+    font-family: Play;
+}
+div.facolor-error {
+    font-weight: bold;
+}
+div.active-node h4 {
+    font-family: Play;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+div.nodes-header.clickable span {
+    font-weight: bold;
+}
+div.auto-node div div {
+    font-family: Play;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+div.ant-modal-title {
+    font-family: Play;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+div.ant-select-selection.ant-select-selection--single {
+    font-family: Play;
+}
+div.ant-form-item-label label {
+    font-family: Play;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+span span span {
+    font-weight: bold;
+    padding-left: 1px;
+    padding-right: 1px;
+}
+div.inline-block span {
+    font-weight: bold;
+}
+td.change-up {
+    font-weight: bold;
+}
+td.change-down {
+    font-weight: bold;
+}
+span.column-hide-xs {
+    display: none;
+}
+tbody.orderbook tr td {
+    border-style: dotted;
+    border-width: 1px;
+    border-color: #7d7d7d;
+}
+td.ant-table-column-has-actions.ant-table-column-has-sorters {
+    border-width: 1px;
+    border-style: dotted;
+    border-color: #7d7d7d;
+}
+tr th span {
+    text-transform: lowercase;
+    font-variant: small-caps;
+    line-height: 1em;
+}
+body.ant-btn-primary {
+    text-transform: lowercase;
+    font-variant: small-caps;
+    line-height: 1em;
+}
